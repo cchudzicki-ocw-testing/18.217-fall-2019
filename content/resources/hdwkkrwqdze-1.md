@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/a25568fb6c8cb805b270ffd90a82a2f3_hDwkKrWqdZE.pdf
+file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/a25568fb6c8cb805b270ffd90a82a2f3_hDwkKrWqdZE.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

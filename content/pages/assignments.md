@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a list of problems for practice and a table with
+  designated problems and bonus problems.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

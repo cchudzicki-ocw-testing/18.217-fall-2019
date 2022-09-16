@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 20: Roth\u2019s Theorem III: Polynomial Method and Arithmetic Regularity "
 uid: 53723007-d495-5c4a-225c-c3e200e37bcd
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 The second half explains another proof of Roth’s theorem via the arithmetic regularity method, with consequences for popular differences.
 
 **Instructor:** Yufei Zhao
+

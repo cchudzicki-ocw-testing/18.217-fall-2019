@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Forbidding a Subgraph III: Algebraic Constructions'
 uid: 175fc97f-486b-a8a3-4a79-ffb34b296fd7
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** How does one construct graphs that do not contain complete bipartite subgraphs of a given size? Professor Zhao explains algebraic constructions known as norm graphs and more recent constructions based on the use of random polynomials.
 
 **Instructor:** Yufei Zhao
+

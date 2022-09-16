@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Pseudorandom Graphs II: Second Eigenvalue  '
 uid: 2ad01c27-7aaf-d1f2-26b8-b3fafe4a62ed
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** What can be inferred about a graph from its second eigenvalue? Professor Zhao explores the role of spectra in pseudorandom graphs. Some topics discussed are Payley graphs and Gauss sums, quasirandom Cayley graphs, and the Alon–Boppana bound.
 
 **Instructor:** Yufei Zhao
+

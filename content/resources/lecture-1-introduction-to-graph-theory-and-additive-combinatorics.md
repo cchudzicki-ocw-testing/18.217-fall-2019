@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: A bridge between graph theory and additive combinatorics'
 uid: dfae0375-9e4a-b314-66fe-b8c0a26d77bd
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In an unsuccessful attempt to prove Fermat’s last theorem, Schur showed that every finite coloring of the integers contains a monochromatic solution to x + y = z, an early result in Ramsey theory. Professor Zhao begins the course with a proof of Schur’s theorem via graph theory and how it led to the modern development of additive combinatorics. He then takes the class on a tour of modern highlights of the field: Roth’s theorem, Szemerédi’s theorem, and the Green–Tao theorem.
 
 **Instructor:** Yufei Zhao
+

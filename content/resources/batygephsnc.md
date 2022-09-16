@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/7052d72bb29305a0dfe1477d12e6ddd6_BatYGepHsnc.srt
+file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/7052d72bb29305a0dfe1477d12e6ddd6_BatYGepHsnc.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
